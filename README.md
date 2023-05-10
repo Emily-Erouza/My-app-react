@@ -1,1 +1,1 @@
-# My-app-react
+# react-demo
